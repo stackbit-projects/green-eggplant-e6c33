@@ -209,8 +209,9 @@ sections:
 seo:
   title: 'Lineth Lopez - Negocios digitales '
   description: >-
-    ¿Quieres optimizar tus ventas? posicionamiento web con SEO, palabras claves.
-    Diseñamos y creamos paginas web, manejamos tus redes y te enseñamos.
+    ¿Quieres optimizar tus ventas? te ayudamos a posicionar tu pagina web
+    haciendo  SEO estratégico, palabras claves. Diseñamos y creamos paginas web,
+    manejamos tus redes y te enseñamos.
   extra:
     - name: 'og:type'
       value: website
