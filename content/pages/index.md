@@ -207,7 +207,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
 seo:
-  title: Negocios digitales / Lineth López
+  title: 'Lineth Lopez - Negocios digitales '
   description: >-
     ¿Quieres optimizar tus ventas? posicionamiento web con SEO, palabras claves.
     Diseñamos y creamos paginas web, manejamos tus redes y te enseñamos.
