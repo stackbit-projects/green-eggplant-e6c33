@@ -208,7 +208,9 @@ sections:
     background_image_opacity: 8
 seo:
   title: Negocios digitales
-  description: The preview of the Personal theme
+  description: >-
+    ¿Quieres optimizar tus ventas? posicionamiento web con SEO, palabras claves.
+    Diseñamos y creamos paginas web, manejamos tus redes y te enseñamos.
   extra:
     - name: 'og:type'
       value: website
